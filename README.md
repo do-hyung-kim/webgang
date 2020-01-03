@@ -1,2 +1,2 @@
 # webgang
-GANGhttps://do-hyung-kim.github.io/webgang/1.html
+https://do-hyung-kim.github.io/webgang/1.html
